@@ -46,7 +46,7 @@
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alihasnainladhani&theme=github_dark" />
-  For Live Stats Click Here<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alihasnainladhani&theme=github_dark">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alihasnainladhani&theme=github_dark">For Live Stats Click Here </a>
 </p>
 
 ---
