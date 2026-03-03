@@ -53,7 +53,7 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alihasnainladhani&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=alihasnainladhani&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
